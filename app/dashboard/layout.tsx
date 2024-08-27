@@ -1,4 +1,5 @@
 import SideNav from '@/app/ui/dashboard/sidenav';
+import RevenueChart from '../ui/dashboard/revenue-chart';
  
 export default function Layout({ children }: { children: React.ReactNode }) {
   return (
